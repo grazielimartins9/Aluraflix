@@ -12,7 +12,7 @@ font-size: 32px;
 color: blue (42, 122, 228);
 }
 
-section {
+.chamada{
 background : rgb(81, 255, 0);
 padding-bottom: 80px;
 padding-top: 80px;
@@ -35,3 +35,13 @@ img {
   height: 200px;
 }
 
+.categoria-vidos{
+  display:flex;
+  overflow-x:auto;
+  gap: 10px;
+}
+
+.categoria {
+  padding-left: 20px;
+  padding-right: 20px;
+}
