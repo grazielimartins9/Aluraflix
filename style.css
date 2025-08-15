@@ -35,7 +35,7 @@ img {
   height: 200px;
 }
 
-.categoria-vidos{
+.categoria-videos{
   display:flex;
   overflow-x:auto;
   gap: 10px;
