@@ -50,3 +50,6 @@ p {
   opacity:1.0;
   border: 1px solid rgb(10, 53, 10);
 }
+
+.categoria h2 {
+  color:blue ;
