@@ -3,6 +3,7 @@ color:rgb(0, 0, 0);
 background: aqua;
 margin: 0px;
 font-family: "Signika Negative", sans-serif;
+margin-bottom:100px;
 }
 
 header {
@@ -41,6 +42,8 @@ p {
 .categoria {
   padding-left: 20px;
   padding-right: 20px;
+  margin-top:50px;
+
 }
 .categoria-videos img {
   opacity: 0.5;
@@ -53,3 +56,4 @@ p {
 
 .categoria h2 {
   color:blue ;
+}
